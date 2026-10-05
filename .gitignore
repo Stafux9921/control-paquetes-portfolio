@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.env*
+*.sqlite*
+*.db
+*.sql
+.wrangler/
+.openai/
+.git-credentials
+*.pem
+*.key
+*.tsbuildinfo
+coverage/
+.DS_Store
